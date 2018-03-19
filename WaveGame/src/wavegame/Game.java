@@ -27,7 +27,7 @@ public class Game extends Canvas implements Runnable {
     
     public Game(){
         handler = new Handler();
-        this.addKeyListener(new KeyInput());
+        this.addKeyListener(new KeyInput(handler));
 
         
         Window window = new Window(WIDTH,HEIGHT,"Lets Build a game!", this);
@@ -36,7 +36,8 @@ public class Game extends Canvas implements Runnable {
         random = new Random();
        
         handler.addObject(new Player(WIDTH/2-32,HEIGHT/2-32, ID.Player));
-        
+                handler.addObject(new Player(WIDTH/2+64,HEIGHT/2-32, ID.Player2));
+
         
     }
     

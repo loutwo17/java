@@ -3,12 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group name="Games">
-            <file>file:/C:/home/Alex/javvva/WaveGame/src/wavegame/ID.java</file>
-            <file>file:/C:/home/Alex/javvva/WaveGame/src/wavegame/Player.java</file>
-            <file>file:/C:/home/Alex/javvva/WaveGame/src/wavegame/Window.java</file>
-            <file>file:/C:/home/Alex/javvva/WaveGame/src/wavegame/GameObject.java</file>
-            <file>file:/C:/home/Alex/javvva/WaveGame/src/wavegame/Handler.java</file>
-            <file>file:/C:/home/Alex/javvva/WaveGame/src/wavegame/Game.java</file>
+            <file>file:/C:/home/Alex/java/WaveGame/src/wavegame/KeyInput.java</file>
+            <file>file:/C:/home/Alex/java/WaveGame/src/wavegame/Window.java</file>
+            <file>file:/C:/home/Alex/java/WaveGame/src/wavegame/Game.java</file>
+            <file>file:/C:/home/Alex/java/WaveGame/src/wavegame/Handler.java</file>
         </group>
     </open-files>
 </project-private>
